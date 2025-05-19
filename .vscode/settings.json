@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "introduction/Hello",
+        "demo1/Inheritance/Polymorphism",
+        "demo1/Abstract",
+        "demo1"
+    ],
+    "java.project.referencedLibraries": []
+}
